@@ -41,12 +41,12 @@ type TConfig = {
 export const config: TConfig = {
   html: {
     title: "Mwaura — 3D Portfolio",
-    fullName: "Chege Mwaura",
+    fullName: "Mwaura",
     email: "chepeterson12@gmail.com",
   },
   hero: {
-    name: "Chege Mwaura",
-    p: ["I develop 3D visuals, user", "interfaces and web applications"],
+    name: "Mwaura",
+    p: ["I develop 3D models, user", "interfaces and web applications"],
   },
   contact: {
     p: "Get in touch",
@@ -67,11 +67,7 @@ export const config: TConfig = {
     about: {
       p: "Introduction",
       h2: "Overview.",
-      content: `I'm a skilled software developer with experience in TypeScript and
-      JavaScript, and expertise in frameworks like React, Node.js, and
-      Three.js. I'm a quick learner and collaborate closely with clients to
-      create efficient, scalable, and user-friendly solutions that solve
-      real-world problems. Let's work together to bring your ideas to life!`,
+      content: `I'm a skilled 3D artist and pentesting expert proficient in Blender sculpting and Kali Linux tools. I craft stunning 3D models, animations, and visualizations while uncovering vulnerabilities through ethical hacking to secure systems. As a quick learner, I collaborate closely with clients to deliver immersive 3D experiences and robust cybersecurity solutions that tackle real-world challenges. Let's team up to sculpt your visions and fortify your defenses!`,
     },
     experience: {
       p: "What I have done so far",
