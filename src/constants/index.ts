@@ -249,9 +249,9 @@ const projects: TProject[] = [
     sourceCodeLink: "https://github.com/",
   },
   {
-    name: "Trip Guide",
+    name: "Mobimend",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A comprehensive mobile and online shop platform enables users to book phone repairs, purchase devices, receive curated recommendations for popular fixes and products.",
     tags: [
       {
         name: "nextjs",
@@ -267,7 +267,7 @@ const projects: TProject[] = [
       },
     ],
     image: tripguide,
-    sourceCodeLink: "https://github.com/",
+    sourceCodeLink: "https://mobimend.vercel.app/",
   },
 ];
 
