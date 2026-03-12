@@ -142,7 +142,7 @@ const experiences: TExperience[] = [
     companyName: "Powerlearnproject",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "Jan 2025 - july 2025",
     points: [
       "Engineered and maintained full-stack web applications using React.js, integrated with MongoDB and SQL databases, enhancing data efficiency at PowerLearn Projects.",
       "Partnered with teams to build scalable, data-optimized solutions.",
@@ -155,7 +155,7 @@ const experiences: TExperience[] = [
     companyName: "Google Developer Student Clubs",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "August 2025 - November 2025",
     points: [
       "Served as Security Analyst for Google Developer Student Club, conducting vulnerability scans and risk assessments on club projects and events.",
       "Collaborated with GDSC team members to implement secure coding practices in React.js apps and integrate threat detection tools.",
@@ -168,7 +168,7 @@ const experiences: TExperience[] = [
     companyName: "Kenya Game Developers Association",
     icon: meta,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "Jan 2026 - Present",
     points: [
       "Sculpted high-poly 3D game assets in Blender, including characters, environments, and props for indie game prototypes.",
       "Optimized low-poly models with UV unwrapping, PBR texturing, and rigging for Unity/Unreal Engine integration.",

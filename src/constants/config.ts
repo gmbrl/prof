@@ -42,7 +42,7 @@ export const config: TConfig = {
   html: {
     title: "Mwaura — 3D Portfolio",
     fullName: "Mwaura",
-    email: "chepeterson12@gmail.com",
+    email: "new-@gmail.com",
   },
   hero: {
     name: "Mwaura",
